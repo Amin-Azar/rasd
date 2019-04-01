@@ -1,4 +1,0 @@
-/* GNU ld script
-*/
-OUTPUT_FORMAT(elf64-x86-64)
-GROUP ( /home/aming/.linuxbrew/Cellar/glibc/2.23/lib/libm.so.6  AS_NEEDED ( /home/aming/.linuxbrew/Cellar/glibc/2.23/lib/libmvec_nonshared.a /home/aming/.linuxbrew/Cellar/glibc/2.23/lib/libmvec.so.1 ) )
