@@ -1,11 +1,7 @@
 <img src="icon.png" align="right" />
 
-# Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> Projects ... 
-
-## RASD
-
- - Welcome to Random Academic Shit Discovered (RASD)
+# RASD [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> Welcome to Random Academic Shit Discovered (RASD)
  Here we will put everything difficult or interesting we faced unintentianly while doing some other Academic shit!
 
 
