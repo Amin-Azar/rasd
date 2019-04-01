@@ -8,6 +8,7 @@
 ## Items
 
 - [ZSim inside a VM](ZSim_in_VM/) - steps and ready to copy (!) libraries to run ZSim insdie a VM in ubuntu. ZSim relies on an older pin which needs an older kernel (version 3.x) ...
+[#ubuntu]()[#Vagrant]()[#ZSim]()[#pin]()
 
 
 ## Contacts
