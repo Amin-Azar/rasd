@@ -1,0 +1,19 @@
+# based on cdedar5 node 
+
+/cvmfs/soft.computecanada.ca/custom/software/librt-compat/centos7/lib/librt.so.1
+/home/mewais/Tools/lib/libconfig++.so.9.2.0
+/home/mewais/Tools/lib/libelf.so.0
+/home/mewais/Tools/lib/libhdf5_hl.so.6.0.3
+/home/mewais/Tools/lib/libhdf5.so.6.0.3
+/home/mewais/Work/Doppelganger/zsim/build/opt/libzsim.so
+
+/usr/lib64/ld-2.17.so
+/usr/lib64/libc-2.17.so
+/usr/lib64/libdl-2.17.so
+/usr/lib64/libgcc_s-4.8.5-20150702.so.1
+/usr/lib64/libgfortran.so.3.0.0
+/usr/lib64/libm-2.17.so
+/usr/lib64/libpthread-2.17.so
+/usr/lib64/libquadmath.so.0.0.0
+/usr/lib64/libstdc++.so.6.0.19
+/usr/lib64/libz.so.1.2.7
