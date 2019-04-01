@@ -10,9 +10,9 @@
 - [ZSim inside a VM](ZSim_in_VM/) - steps and ready to copy (!) libraries to run ZSim insdie a VM in ubuntu. ZSim relies on an older pin which needs an older kernel (version 3.x) ...
 [#ubuntu]()[#Vagrant]()[#ZSim]()[#pin]()
 
-- [Install gcc-4.8 on ubuntu 12.4](Zsim_in_VM/README.md) - Needed by some simulators like ZSim
+- [Install gcc-4.8 on ubuntu 12.4](Zsim_in_VM/README.md) - Needed for some simulators like ZSim
 
-- [Change global (Virtual) shared memory sizes](Shared_memory_segments/) - Needed by some simulators like ZSim if it allcoates too much memory to handle timing stuff ...
+- [Change global (Virtual) shared memory sizes](Shared_memory_segments/) - Needed for some simulators like ZSim if it allocates too much memory to handle timing models...
 
 
 
