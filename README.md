@@ -18,8 +18,8 @@
 
 ## Contacts
 
-- [Amin](aming@ece.ubc.ca) - Just email me and tell it to my face.
-- [Khaled](khaledea@ece.ubc.ca) - Just email me and tell it to my face.
+- [Amin](aming@ece.ubc.ca) - Just email me and tell it to my face!
+- [Khaled](khaledea@ece.ubc.ca) - email him too!
 - This repository. Submit a PR with your README!
 
 ## Contribute
