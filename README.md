@@ -5,20 +5,21 @@
  Here we will put everything difficult or interesting we faced unintentianly while doing some other Academic shit!
 
 
-## Items
+## List of items
 
-- [ZSim inside a VM](ZSim_in_VM/) - steps and ready to copy (!) libraries to run ZSim insdie a VM in ubuntu. ZSim relies on an older pin which needs an older kernel (version 3.x) ...
+1. [ZSim inside a VM](ZSim_in_VM/) - steps and ready to copy (!) libraries to run ZSim insdie a VM in ubuntu. ZSim relies on an older pin which needs an older kernel (version 3.x) ...
 [#ubuntu]() [#Vagrant]() [#ZSim]() [#pin]()
 
-- [Install gcc-4.8 on ubuntu 12.4](Zsim_in_VM/README.md) - Needed by some simulators like ZSim [#gcc]() [#compiler]()
+2. [Install gcc-4.8 on ubuntu 12.4](Zsim_in_VM/README.md) - Needed by some simulators like ZSim [#gcc]() [#compiler]()
 
-- [Change global (Virtual) shared memory sizes](Shared_memory_segments/) - Needed by some simulators like ZSim if it allcoates too much memory to handle timing stuff ... [#shm]() [#globalMemory]() [#sharedMemory]()
+3. [Change global (Virtual) shared memory sizes](Shared_memory_segments/) - Needed by some simulators like ZSim if it allcoates too much memory to handle timing stuff ... [#shm]() [#globalMemory]() [#sharedMemory]()
 
-
+4. ...
 
 ## Contacts
 
 - [Amin](aming@ece.ubc.ca) - Just email me and tell it to my face.
+- [Khaled](khaledea@ece.ubc.ca) - Just email me and tell it to my face.
 - This repository. Submit a PR with your README!
 
 ## Contribute
