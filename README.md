@@ -14,7 +14,8 @@
 
 3. [Change global (Virtual) shared memory sizes](Shared_memory_segments/) - Needed by some simulators like ZSim if it allcoates too much memory to handle timing stuff ... [#shm]() [#globalMemory]() [#sharedMemory]()
 
-4. ...
+4. [While using gdb](gdb-ing/) - Some challenges/tips while using gdb
+5. ...
 
 ## Contacts
 
