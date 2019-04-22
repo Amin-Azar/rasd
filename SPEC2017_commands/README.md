@@ -18,12 +18,13 @@
 to your current run directory.
 
 
+
 ```
 
 run_path="run/run_base_refrate_mytest-m64.0000"
 ext="base.mytest-m64"
 
-500.perlbench_r/$run_path/perlbench_$ext   	-I./lib checkspam.pl 2500 5 25 11 150 1 1 1 1 > checkspam.2500.5.25.11.150.1.1.1.1.out 2>> checkspam.2500.5.25.11.150.1.1.1.1.err
+500.perlbench_r/$run_path/perlbench_r_$ext   	-I./lib checkspam.pl 2500 5 25 11 150 1 1 1 1 > checkspam.2500.5.25.11.150.1.1.1.1.out 2>> checkspam.2500.5.25.11.150.1.1.1.1.err
 502.gcc_r/$run_path/cpugcc_r_$ext 		gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s > gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.out 2>> gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.err
 505.mcf_r/$run_path/mcf_r_$ext 			inp.in  > inp.out 2>> inp.err
 520.omnetpp_r/$run_path/omnetpp_r_$ext 		-c General -r 0 > omnetpp.General-0.out 2>> omnetpp.General-0.err
@@ -52,3 +53,17 @@ ext="base.mytest-m64"
 526.blender_r/$run_path/blender_r_$ext    	sh3_no_char.blend --render-output sh3_no_char_ --threads 1 -b -F RAWTGA -s 849 -e 849 -a > sh3_no_char.849.spec.out 2>> sh3_no_char.849.spec.err
 
 ```
+
+
+if you have multiple copies of a final run folder but want to keep one (also sometimes the commands dont appear on the xxx.0000 folder) try to run
+
+`
+> contentCopier.sh
+`
+on the .../CPU folder to copy all 0020 0019 ... 0001 to the 0000 folder, and the run
+
+`
+> folderRemover.sh
+`
+
+to delete all the other folders and just keep the xxx.0000 one.
