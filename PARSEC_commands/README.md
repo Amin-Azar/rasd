@@ -5,9 +5,12 @@
 
 Use this command to copy the input files (after uncompressing them if they are) into your run directory:
 
-> ## PARSEC
-> cp -r $BENCH_FOLDER/$PARSEC/apps/*${BASENAME}/inputs/* .
-> cp -r $BENCH_FOLDER/$PARSEC/kernels/*${BASENAME}/inputs/* .
+```
+ ## PARSEC
+ cp -r $BENCH_FOLDER/$PARSEC/apps/*${BASENAME}/inputs/* .
+ cp -r $BENCH_FOLDER/$PARSEC/kernels/*${BASENAME}/inputs/* .
+```
+
 
 ```
 
