@@ -16,7 +16,8 @@
 
 4. [While using gdb](gdb-ing/) - Some challenges/tips while using gdb
 5. [Command Line arguments of spec2017 ](SPEC2017_commands/) - Command Line arguments for refrate size 
-6. ...
+6. [Run java benchmarks inside ZSim](Java_in_Zsim) - How to compile and run Java benchmarks.
+7. ...
 
 ## Contacts
 
