@@ -17,7 +17,8 @@
 4. [While using gdb](gdb-ing/) - Some challenges/tips while using gdb
 5. [Command Line arguments of spec2017 ](SPEC2017_commands/) - Command Line arguments for refrate size 
 6. [Run java benchmarks inside ZSim](Java_in_ZSim) - How to compile and run Java benchmarks.
-7. ...
+7. [Connect Yosys to DesignCompiler](yosys_to_dc) - files and scripts with an example on how to do that.
+8. ...
 
 ## Contacts
 
