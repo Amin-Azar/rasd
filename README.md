@@ -7,6 +7,7 @@
 
 ## List of items
 
+0. [ZSim related issues](ZSim_issues) probable reasons why the simulator copilation dies, or it compiles ot doesnt run ...etc.
 1. [ZSim inside a VM](ZSim_in_VM/) - steps and ready to copy (!) libraries to run ZSim insdie a VM in ubuntu. ZSim relies on an older pin which needs an older kernel (version 3.x) ...
 [#ubuntu]() [#Vagrant]() [#ZSim]() [#pin]()
 
@@ -18,7 +19,8 @@
 5. [Command Line arguments of spec2017 ](SPEC2017_commands/) - Command Line arguments for refrate size 
 6. [Run java benchmarks inside ZSim](Java_in_ZSim) - How to compile and run Java benchmarks.
 7. [Connect Yosys to DesignCompiler](yosys_to_dc) - files and scripts with an example on how to do that.
-8. ...
+8. [Spec2017 in VM]() - I couldnt do it yet :-( - Sounds like we might need to build the tool from source ...
+9. ...
 
 ## Contacts
 
