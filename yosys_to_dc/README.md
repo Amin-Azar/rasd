@@ -6,5 +6,5 @@ I used this to automatically replace adders with approximate adders in critical 
 
 ![xXxXx](YosysToDC_flow.jpg)
 
-- [yosys and scripts](Yosys)
-[scripts and a diagram](YosysToDC)
+- [yosys with scripts](Yosys-s)
+- [scripts and a diagram](YosysToDC-s)

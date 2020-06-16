@@ -1,7 +1,7 @@
 <img src="icon.png" align="right" />
 
 # RASD [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> Welcome to Random Academic Shit Discovered (RASD)
+> Welcome to Random Academic S... Discovered (RASD)
  Here we will put everything difficult or interesting we faced unintentianly while doing some other Academic shit!
 
 
@@ -20,7 +20,9 @@
 6. [Run java benchmarks inside ZSim](Java_in_ZSim) - How to compile and run Java benchmarks.
 7. [Connect Yosys to DesignCompiler](yosys_to_dc) - files and scripts with an example on how to do that.
 8. [Spec2017 in VM]() - I couldnt do it yet :-( - Sounds like we might need to build the tool from source ...
-9. ...
+9. [MATLAB Custom Functions](MATLAB/CustomFunctions/) - Convert different datatypes to eachother including binary, decimal, half/single/double precision floating-point. files: bin2dec, bin2IEEE754, dec2IEEE754, IEEE7542dec, dec2tc, halfBin2SingleBin, halfP, hex2bin, maskDEC, maskBits, singleTohalfBin
+10. [python FP and FxP Functions](python_helpers) - Convert a list of decimal values to floating point and fixed point and dump them as HEX/BINARY strings.
+11. ...
 
 ## Contacts
 
